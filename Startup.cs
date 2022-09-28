@@ -15,7 +15,7 @@ using System.Threading.Tasks;
 namespace WebApplication1
 {
     public class Startup
-    {
+    {//added comment
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
